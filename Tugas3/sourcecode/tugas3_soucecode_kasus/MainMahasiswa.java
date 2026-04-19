@@ -1,3 +1,9 @@
+/*
+NIM: 13020240245
+    NAMA: MUHAMMAD ARIANSYAH HANI
+    HARI/TANGGAL: 18 APRIL 2026
+    WAKTU: 15.00
+    */
 package mahasiswa;
 import java.util.Scanner;
 
